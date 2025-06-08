@@ -83,7 +83,3 @@ finance_ai_project/
 
 - Python 3.8 or higher
 - Libraries: numpy, pandas, yfinance, jax, streamlit, openai, requests, python-dotenv, plotly
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
